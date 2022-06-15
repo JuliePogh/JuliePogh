@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliePogh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning coding
+- 🌱 I currently learn coding
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
