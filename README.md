@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliePogh
 - 👀 I’m interested in web development
-- 🌱 I,m a frontend developer based in Brooklyn, New York
+- 🌱 I'm a frontend developer based in Brooklyn, New York
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :
 - juli.poghosyan1990@gmail.com
